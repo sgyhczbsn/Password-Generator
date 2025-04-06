@@ -1,6 +1,7 @@
 # Password Generator (Using RAD Model)
 
 A simple password generator built using Python. This project follows the RAD Model.（The python file is in the Password-Generator folder）
+
 After-school homework project
 
 ## Features
